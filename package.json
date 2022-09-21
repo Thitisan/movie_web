@@ -19,7 +19,7 @@
     "nuxt": "^2.0.0",
     "vue-axios": "^2.1.5",
     "vue-simple-alert": "^1.1.1",
-    "vuetify": "^2.2.11"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "sass": "^1.19.0",
